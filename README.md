@@ -6,6 +6,7 @@
   - With a Java console application, you may order simple cuisine by selecting from several categories, such as pizza, sushi and rolls, meat and grills, and seafood and fish. This project served as my final output for intermediate programming during my first year of college.
 
   - **Old Version:** [Old Version of the Project](https://github.com/kastilyojl/Food-Ordering.git)
+  - **Modified Version** I modified the code to improve the overall structure, design, and user experience. I also used **encapsulation** to better manage data and functionality, as well as **collections** like **LinkedList** to handle dynamic data efficiently.
 
 ## Pre-requisites
   - Download & Install [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/).
